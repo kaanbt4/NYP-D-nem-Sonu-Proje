@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|c:\\users\\kaan bertu\u011F\\desktop\\otelrezervasyonsistemi\\otelrezervasyonsistemi\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|solutionrelative:otelrezervasyonsistemi\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|c:\\users\\kaan bertu\u011F\\desktop\\otelrezervasyonsistemi\\otelrezervasyonsistemi\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|solutionrelative:otelrezervasyonsistemi\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\otelrezervasyonsistemi\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|solutionrelative:otelrezervasyonsistemi\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\otelrezervasyonsistemi\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39384EAA-D022-401D-B5EF-30533CD09B68}|OtelRezervasyonSistemi\\OtelRezervasyonSistemi.csproj|solutionrelative:otelrezervasyonsistemi\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoneticiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "RelativeDocumentMoniker": "OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "RelativeToolTip": "OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwMgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:53:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YoneticiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "RelativeDocumentMoniker": "OtelRezervasyonSistemi\\YoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\YoneticiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezervasyonSistemi\\YoneticiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:52:53.273Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\MusteriForm.cs",
+              "RelativeDocumentMoniker": "OtelRezervasyonSistemi\\MusteriForm.cs",
+              "ToolTip": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\MusteriForm.cs",
+              "RelativeToolTip": "OtelRezervasyonSistemi\\MusteriForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:43:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusteriForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\MusteriForm.cs",
+              "RelativeDocumentMoniker": "OtelRezervasyonSistemi\\MusteriForm.cs",
+              "ToolTip": "C:\\Users\\Kaan Bertu\u011F\\Desktop\\OtelRezervasyonSistemi\\OtelRezervasyonSistemi\\MusteriForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezervasyonSistemi\\MusteriForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:43:53.14Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

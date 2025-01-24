@@ -1,0 +1,58 @@
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.MainForm.resources
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.MusteriForm.resources
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.YoneticiForm.resources
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.exe
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.deps.json
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.runtimeconfig.json
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.pdb
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelReze.7F0AA57D.Up2Date
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\refint\OtelRezervasyonSistemi.dll
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.pdb
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.genruntimeconfig.cache
+C:\Users\EMRE CAN AKDAŞ\source\repos\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\ref\OtelRezervasyonSistemi.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.exe
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.deps.json
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.runtimeconfig.json
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\OtelRezervasyonSistemi.pdb
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.MainForm.resources
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.MusteriForm.resources
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.YoneticiForm.resources
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelReze.7F0AA57D.Up2Date
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\refint\OtelRezervasyonSistemi.dll
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.pdb
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\OtelRezervasyonSistemi.genruntimeconfig.cache
+C:\Users\Kaan Bertuğ\Desktop\OtelRezervasyonSistemi\OtelRezervasyonSistemi\obj\Debug\net8.0-windows\ref\OtelRezervasyonSistemi.dll
